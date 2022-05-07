@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {org.jfree/jfreechart "1.5.0"}}
